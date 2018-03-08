@@ -36,7 +36,7 @@ namespace test
               Console.WriteLine("==      SSEM 'Manchester Baby' Simulator   ==");
               Console.WriteLine("==      --------------------------------   ==");
               Console.WriteLine("==                    by                   ==");
-              Console.WriteLine("==              Kenneth Bathgate           ==");
+              Console.WriteLine("==              Eul0gy                     ==");
               Console.WriteLine("=============================================");
               Console.WriteLine("==    Please Select:                       ==");
               Console.WriteLine("==                                         ==");
