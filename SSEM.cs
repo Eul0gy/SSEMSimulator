@@ -37,7 +37,6 @@ namespace test
               Console.WriteLine("==      --------------------------------   ==");
               Console.WriteLine("==                    by                   ==");
               Console.WriteLine("==              Kenneth Bathgate           ==");
-              Console.WriteLine("==                (040016092)              ==");
               Console.WriteLine("=============================================");
               Console.WriteLine("==    Please Select:                       ==");
               Console.WriteLine("==                                         ==");
