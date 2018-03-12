@@ -22,7 +22,7 @@ namespace test
            
          SSEM ssem = new SSEM();
          ssem.Menu();
-         Console.WriteLine("wibble"");
+        
       
                 
             
